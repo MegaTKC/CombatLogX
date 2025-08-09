@@ -37,12 +37,9 @@ dependencies {
     expansion(project(":expansion:compatibility:BSkyBlock"))
     expansion(project(":expansion:compatibility:Citizens"))
     expansion(project(":expansion:compatibility:CMI"))
-    expansion(project(":expansion:compatibility:CrackShot"))
     expansion(project(":expansion:compatibility:CrashClaim"))
     expansion(project(":expansion:compatibility:EssentialsX"))
-    expansion(project(":expansion:compatibility:FabledSkyBlock"))
     expansion(project(":expansion:compatibility:Factions"))
-    expansion(project(":expansion:compatibility:FeatherBoard"))
     expansion(project(":expansion:compatibility:GriefDefender"))
     expansion(project(":expansion:compatibility:GriefPrevention"))
     expansion(project(":expansion:compatibility:HuskHomes"))
@@ -70,8 +67,7 @@ dependencies {
     expansion(project(":expansion:compatibility:UltimateClaims"))
     expansion(project(":expansion:compatibility:uSkyBlock"))
     expansion(project(":expansion:compatibility:VanishNoPacket"))
-    expansion(project(path = ":expansion:compatibility:WorldGuard", configuration = "shadow"))
-    // expansion(project(":expansion:compatibility:ZNPCsPlus"))
+    expansion(project(":expansion:compatibility:ZNPCsPlus"))
 }
 
 distributions {
