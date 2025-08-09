@@ -3,5 +3,5 @@ repositories {
 }
 
 dependencies {
-    compileOnly("net.william278:huskhomes:4.5.5")
+    compileOnly("net.william278:huskhomes:4.8.2")
 }
