@@ -70,7 +70,7 @@ include("expansion:compatibility:SuperiorSkyblock")
 include("expansion:compatibility:SuperVanish")
 include("expansion:compatibility:uSkyBlock")
 include("expansion:compatibility:VanishNoPacket")
-include("expansion:compatibility:ZNPCsPlus")
+//include("expansion:compatibility:ZNPCsPlus")
 
 // Final ZIP Builder
 include("builder")
