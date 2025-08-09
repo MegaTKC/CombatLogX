@@ -57,8 +57,6 @@ dependencies {
     expansion(project(":expansion:compatibility:MythicMobs"))
     expansion(project(":expansion:compatibility:PlaceholderAPI"))
     expansion(project(":expansion:compatibility:PlayerParticles"))
-    expansion(project(":expansion:compatibility:PreciousStones"))
-    expansion(project(":expansion:compatibility:ProtectionStones"))
     expansion(project(":expansion:compatibility:RedProtect"))
     expansion(project(":expansion:compatibility:Residence"))
     expansion(project(":expansion:compatibility:SuperiorSkyblock"))
