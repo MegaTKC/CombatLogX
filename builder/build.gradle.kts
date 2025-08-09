@@ -63,7 +63,7 @@ dependencies {
     expansion(project(":expansion:compatibility:SuperVanish"))
     expansion(project(":expansion:compatibility:uSkyBlock"))
     expansion(project(":expansion:compatibility:VanishNoPacket"))
-    expansion(project(":expansion:compatibility:ZNPCsPlus"))
+    // expansion(project(":expansion:compatibility:ZNPCsPlus"))
 }
 
 distributions {
